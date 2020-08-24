@@ -115,7 +115,7 @@ div.home-bg{
   margin: 0;
 }
 div.home-bg-image{
-  background: url(/assets/bg.jpg);
+  background: url(/assets/bg1.jpg);
   background-size: cover;
   background-position: center center;
   min-width: 100vw;
