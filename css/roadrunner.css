@@ -91,7 +91,7 @@ a{color: currentColor;}
 .large-only{display:initial;}
 .small-only{display:none;}
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 1080px) {
   [class^="grid"]{display:block;width:100%;}
   [class^="col"]{display:block;width: 100%;}
   img[class^="col"]{display:inline-block;}
